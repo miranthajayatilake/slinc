@@ -22,7 +22,7 @@ Slinc makes knowledge from your favourite podast serachable and accessible. Curr
 ## TODO
 
 - Add full pipeline to repo - [YouTube Playlist Link -> Audio extraction -> Speech-to-Text -> Document Indexing] 
-- Insert epideo metadata (title, description) 
+- Insert episode metadata (title, description) 
 - Embed links to podcast video with timestamp
 - Enable semantic search
 
