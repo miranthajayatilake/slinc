@@ -11,7 +11,7 @@ The project can be configured via a JSON [config file](src/config/engine.json).
 - [Elastic](https://github.com/elastic) will provide more information on how to do this. You can use their hosted solution as well. 
 - The documents indexed were taken from Andrej Karpathy's [Lexicap](https://karpathy.ai/lexicap/)
 
-**More documentation will be done on this shortly**
+**More documentation will be done on this shortly..**
 
 ## Instructions
 
