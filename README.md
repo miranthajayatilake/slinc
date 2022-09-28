@@ -12,7 +12,7 @@ Slinc makes knowledge from your favourite podast serachable and accessible. Curr
 **Hosted site** - https://slinc.netlify.app/
 
 <p align="center">
-  <img src="utils/images/screen_capture.png" width=530/>
+  <img src="utils/images/screen_capture.png" width=650/>
 </p>
 
 ## Instructions
