@@ -7,7 +7,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fdad0b68-a63a-4161-8fff-088bbaed4111/deploy-status)](https://app.netlify.com/sites/slinc/deploys)
 
 
-Slinc makes knowledge from your favourite podast serachable and accessible. Cuurently build for Lex Fridman Podcast.  
+Slinc makes knowledge from your favourite podast serachable and accessible. Currently build for Lex Fridman Podcast.  
+
+**Hosted site** - https://slinc.netlify.app/
 
 ## Instructions
 
