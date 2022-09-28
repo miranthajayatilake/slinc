@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/miranthajayatilake/kudle/blob/main/LICENSE)
 
 
-Slinc build
+Slinc makes knowledge from your favourite podast serachable and accessible. Cuurently build for Lex Fridman Podcast.  
 
 ## Instructions
 
