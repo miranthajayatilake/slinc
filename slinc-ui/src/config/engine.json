@@ -1,0 +1,18 @@
+{
+  "engineName": "<engineName>",
+  "endpointBase": "<endpointBase>",
+  "searchKey": "searchKey",
+  "resultFields": [
+    "episode_number",
+    "text",
+    "timestamp",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+    "episode_number"
+  ],
+  "titleField": "text"
+}
