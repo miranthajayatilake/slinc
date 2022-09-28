@@ -26,6 +26,6 @@ Slinc makes knowledge from your favourite podast serachable and accessible. Curr
 
 Please use the issues tracker of this repository to report on any bugs or questions you have.
 
-## Contributing to Gloop
+## Contributing
 
 I highly appreciate your contributions to this project in any amount possible. Kudle is still at an very basic stage. Suggestions on additional features and functionality are welcome. General instructions on how to contribute are mentioned in [CONTRIBUTING](CONTRIBUTING.md)
