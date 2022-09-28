@@ -4,6 +4,7 @@
 </p>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/miranthajayatilake/kudle/blob/main/LICENSE)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fdad0b68-a63a-4161-8fff-088bbaed4111/deploy-status)](https://app.netlify.com/sites/slinc/deploys)
 
 
 Slinc makes knowledge from your favourite podast serachable and accessible. Cuurently build for Lex Fridman Podcast.  
